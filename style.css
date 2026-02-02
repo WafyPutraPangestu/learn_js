@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    padding: 20px ;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+
+.variabel {
+    background-color: #f0f0f0;
+    padding: 20px ;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+.const {
+    background-color: #d0f0d0;
+    padding: 20px ;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
